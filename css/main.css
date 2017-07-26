@@ -124,7 +124,7 @@ body > section,
 #preloader {
   background-color: #fff;
   height: 100%;
-  position: absolute;
+  position: fixed;
   width: 100%;
   z-index: 1100;
 }
